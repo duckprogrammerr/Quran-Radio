@@ -1,7 +1,6 @@
-# audio_palyer
+# Quran Radio
 
-A new Flutter project.
-
+قران راديو 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
